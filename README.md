@@ -27,3 +27,13 @@ Python 3.7 or higher. Install dependencies via:
 
 ```bash
 pip install -r requirements.txt
+
+
+## Steps to Follow
+```bash
+git clone https://github.com/yourusername/imageWatchDog.git
+cd imageWatchDog
+
+## Run The Application
+```bash
+python Image_WatchDog.py
