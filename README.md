@@ -1,6 +1,6 @@
 # 🐾 ImageWatchDog
 
-**ImageWatchDog** is a modern, interactive tool for detecting hidden messages in images using classical steganalysis techniques. Designed with a beautiful GUI in Python, this application gives analysts, researchers, and students the ability to inspect images for suspicious patterns using techniques like LSB analysis, chi-square testing, noise estimation, and more.
+**ImageWatchDog** is a modern, interactive tool for detecting hidden messages in images using classical steganalysis techniques. Designed with a beautiful GUI in Python, this application gives analysts, researchers, and students the ability to inspect images for suspicious patterns using techniques like LSB analysis, chi-square testing, noise estimation, and more...
 
 ![ImageWatchDog Screenshot](preview.png) <!-- Optional: Add GUI screenshot here -->
 
